@@ -1,0 +1,10 @@
+C:\Users\Elisa\source\repos\SWT\DoorControlConstructorInjection\DoorControl.Classes\bin\Debug\netcoreapp3.1\DoorControl.Classes.deps.json
+C:\Users\Elisa\source\repos\SWT\DoorControlConstructorInjection\DoorControl.Classes\bin\Debug\netcoreapp3.1\DoorControl.Classes.dll
+C:\Users\Elisa\source\repos\SWT\DoorControlConstructorInjection\DoorControl.Classes\bin\Debug\netcoreapp3.1\DoorControl.Classes.pdb
+C:\Users\Elisa\source\repos\SWT\DoorControlConstructorInjection\DoorControl.Classes\obj\Debug\netcoreapp3.1\DoorControl.Classes.csproj.AssemblyReference.cache
+C:\Users\Elisa\source\repos\SWT\DoorControlConstructorInjection\DoorControl.Classes\obj\Debug\netcoreapp3.1\DoorControl.Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elisa\source\repos\SWT\DoorControlConstructorInjection\DoorControl.Classes\obj\Debug\netcoreapp3.1\DoorControl.Classes.AssemblyInfoInputs.cache
+C:\Users\Elisa\source\repos\SWT\DoorControlConstructorInjection\DoorControl.Classes\obj\Debug\netcoreapp3.1\DoorControl.Classes.AssemblyInfo.cs
+C:\Users\Elisa\source\repos\SWT\DoorControlConstructorInjection\DoorControl.Classes\obj\Debug\netcoreapp3.1\DoorControl.Classes.csproj.CoreCompileInputs.cache
+C:\Users\Elisa\source\repos\SWT\DoorControlConstructorInjection\DoorControl.Classes\obj\Debug\netcoreapp3.1\DoorControl.Classes.dll
+C:\Users\Elisa\source\repos\SWT\DoorControlConstructorInjection\DoorControl.Classes\obj\Debug\netcoreapp3.1\DoorControl.Classes.pdb
